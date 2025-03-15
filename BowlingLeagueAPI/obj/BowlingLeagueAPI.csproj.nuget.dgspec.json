@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jacobstanford/Desktop/Mission10_Stanford/BowlingLeagueAPI/BowlingLeagueAPI.csproj": {}
+    "/Users/jacobstanford/Desktop/Mission10_Stanford-1/BowlingLeagueAPI/BowlingLeagueAPI.csproj": {}
   },
   "projects": {
-    "/Users/jacobstanford/Desktop/Mission10_Stanford/BowlingLeagueAPI/BowlingLeagueAPI.csproj": {
+    "/Users/jacobstanford/Desktop/Mission10_Stanford-1/BowlingLeagueAPI/BowlingLeagueAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jacobstanford/Desktop/Mission10_Stanford/BowlingLeagueAPI/BowlingLeagueAPI.csproj",
+        "projectUniqueName": "/Users/jacobstanford/Desktop/Mission10_Stanford-1/BowlingLeagueAPI/BowlingLeagueAPI.csproj",
         "projectName": "BowlingLeagueAPI",
-        "projectPath": "/Users/jacobstanford/Desktop/Mission10_Stanford/BowlingLeagueAPI/BowlingLeagueAPI.csproj",
+        "projectPath": "/Users/jacobstanford/Desktop/Mission10_Stanford-1/BowlingLeagueAPI/BowlingLeagueAPI.csproj",
         "packagesPath": "/Users/jacobstanford/.nuget/packages/",
-        "outputPath": "/Users/jacobstanford/Desktop/Mission10_Stanford/BowlingLeagueAPI/obj/",
+        "outputPath": "/Users/jacobstanford/Desktop/Mission10_Stanford-1/BowlingLeagueAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jacobstanford/.nuget/NuGet/NuGet.Config"
@@ -47,6 +47,14 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.3, )"
             }
           },
           "imports": [

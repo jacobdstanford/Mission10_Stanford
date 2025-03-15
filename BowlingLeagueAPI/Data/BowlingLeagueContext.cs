@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using BowlingLeagueAPI.Models; // Ensure you have your models defined
+using BowlingLeagueAPI.Models;
 
 namespace BowlingLeagueAPI.Data
 {
@@ -10,7 +10,7 @@ namespace BowlingLeagueAPI.Data
         {
         }
 
-        // Add a DbSet for your bowlers.
         public DbSet<Bowler> Bowlers { get; set; }
+        public DbSet<Team> Teams { get; set; }
     }
 }

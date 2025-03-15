@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BowlingLeagueAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88d040a94b593d65f6251876432a333491edb431")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ceb711bc10d00edc74557bc5ed5c549929e4f95")]
 [assembly: System.Reflection.AssemblyProductAttribute("BowlingLeagueAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BowlingLeagueAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
